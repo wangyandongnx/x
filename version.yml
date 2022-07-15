@@ -1,0 +1,13 @@
+---
+gost:
+  version: v2.11.2
+  url: https://github.com/ginuerzh/gost/releases/tag/v2.11.2
+udp2raw:
+  version: 20200818.0
+  url: https://github.com/wangyu-/udp2raw/releases/tag/20200818.0
+caddy:
+  version: v2.5.2+dns.providers.cloudflare
+  url: https://caddyserver.com/download
+xray:
+  version: v1.5.8
+  url: https://github.com/XTLS/Xray-core/releases/tag/v1.5.8
